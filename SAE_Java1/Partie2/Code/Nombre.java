@@ -1,3 +1,8 @@
+ /**
+ * Creation de la classe Division
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public class Nombre extends Expression {
 
     private double valeurNombre;
