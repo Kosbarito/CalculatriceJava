@@ -2,6 +2,7 @@
  * Creation de la classe Soustraction
  * @author Mohamed Kosbar & Konté Diarra
  */
+
 public class Soustraction extends Operation {
 
     public Soustraction(Nombre operande1, Nombre operande2) {
