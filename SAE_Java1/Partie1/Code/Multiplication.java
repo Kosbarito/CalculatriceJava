@@ -1,3 +1,8 @@
+ /**
+ * Creation de la classe Multiplication
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public class Multiplication extends Operation {
     
     public Multiplication(Nombre operande1, Nombre operande2) {
