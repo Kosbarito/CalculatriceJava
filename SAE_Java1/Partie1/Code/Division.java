@@ -1,3 +1,8 @@
+ /**
+ * Creation de la classe Division
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public class Division extends Operation {
 
     public Division(Nombre operande1, Nombre operande2) {
