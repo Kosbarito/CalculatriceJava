@@ -1,3 +1,8 @@
+/**
+ * Creation de la classe opération
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public class Addition extends Operation {
     
     public Addition(Expression operande1, Expression operande2) {
