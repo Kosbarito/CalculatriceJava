@@ -1,3 +1,8 @@
+ /**
+ * Creation de la classe Soustraction
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public class Soustraction extends Operation {
 
     public Soustraction(Expression operande1, Expression operande2) {
