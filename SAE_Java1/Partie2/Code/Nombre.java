@@ -1,5 +1,5 @@
  /**
- * Creation de la classe Division
+ * Creation de la classe Nombre
  * @author Mohamed Kosbar & Konté Diarra
  */
 
