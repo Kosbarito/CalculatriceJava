@@ -1,5 +1,5 @@
 /**
- * Creation de la classe opération
+ * Creation de la classe Addition
  * @author Mohamed Kosbar & Konté Diarra
  */
 
