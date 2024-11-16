@@ -1,3 +1,8 @@
+ /**
+ * Creation de la classe TestCalculatrice
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public class TestCalculatrice {
     public static void main(String[] args) {
         // Création de deux nombres aléatoire
