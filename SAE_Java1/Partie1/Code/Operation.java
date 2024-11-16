@@ -1,3 +1,8 @@
+ /**
+ * Creation de la classe Operation
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public abstract class Operation {
     private Nombre operande1; // On créé deux variable de type Nombre
     private Nombre operande2;
