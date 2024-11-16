@@ -1,3 +1,7 @@
+ /**
+ * Creation de la classe Nombre
+ * @author Mohamed Kosbar & Konté Diarra
+ */
 public class Nombre {
         private int valeurNombre;
 
