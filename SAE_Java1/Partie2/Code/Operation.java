@@ -1,3 +1,8 @@
+ /**
+ * Creation de la classe Operation
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public abstract class Operation extends Expression {
 
     private Expression operande1;
