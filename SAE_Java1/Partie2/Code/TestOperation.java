@@ -1,3 +1,8 @@
+ /**
+     * Creation de la classe Test
+ * @author Mohamed Kosbar & Konté Diarra
+ */
+
 public class TestOperation {
 
     public static void main(String[] args) {
